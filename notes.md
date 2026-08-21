@@ -32,3 +32,9 @@ reproduce the results on the twist and non-twist maps
 - closed magnetic field line - rational ratio (toroidal to poloidal (long, short)) of rotational transform indicative of the field line closing in on itself
 - open magnetic field line - irrational ratio of rotational transform indicative of the magnetic field line spiriling forever and never perfectly overlapping itself
 - divergence-free magnetic field line - a field like that has no beginning or end (specifically Gauss's Law for magnetism) 
+
+questions:
+
+what is the jacobian and its relation with plasma physics?
+is the residue of Greene's Criterion a magnetized plasma left 
+what is meant by the phase space action principle that derives the Hamiltonian's equations?
