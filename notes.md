@@ -47,3 +47,4 @@ what is the jacobian and its relation with plasma physics?
 is the residue of Greene's Criterion a magnetized plasma left : it is not a physical goo, instead it is a measurement of stability of a specific periodic orbit (elliptic vs hyperbolic)
 what is meant by the phase space action principle that derives the Hamiltonian's equations?
 
+The term “non-resonant divertor” was coined in 2015 by Boozer [3]. The definition emphasised (1) the relationship between sharp curvature of flux surfaces and X-points in the magnetic field and (2) the importance of making perturbations to the magnetic field which are not resonant with the rotational transform of the field, and therefore do not produce an island divertor
