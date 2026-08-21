@@ -33,8 +33,17 @@ reproduce the results on the twist and non-twist maps
 - open magnetic field line - irrational ratio of rotational transform indicative of the magnetic field line spiriling forever and never perfectly overlapping itself
 - divergence-free magnetic field line - a field like that has no beginning or end (specifically Gauss's Law for magnetism) 
 
-questions:
+
+**summary**
+In a toroidal magnetized plasma (tokamak, stellarator), magnetic field lines can be described as trajectories of a Hamiltonian system 
+
+— following a field line around the torus is equivalent to iterating an area-preserving map (a Poincaré map) in a 2D cross-section. This comes directly from the fact that field-line flow conserves magnetic flux, so it's symplectic/area-preserving, just like a Hamiltonian phase-space flow.
+
+Greene's Criterion (Greene, 1979) is a method from KAM (Kolmogorov-Arnold-Moser) theory used to determine whether an invariant torus (a smooth, continuous magnetic flux surface) survives or breaks apart into a fractal remnant called a cantorus.
+
+**questions:**
 
 what is the jacobian and its relation with plasma physics?
-is the residue of Greene's Criterion a magnetized plasma left 
+is the residue of Greene's Criterion a magnetized plasma left : it is not a physical goo, instead it is a measurement of stability of a specific periodic orbit (elliptic vs hyperbolic)
 what is meant by the phase space action principle that derives the Hamiltonian's equations?
+
