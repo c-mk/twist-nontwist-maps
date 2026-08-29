@@ -48,3 +48,12 @@ is the residue of Greene's Criterion a magnetized plasma left : it is not a phys
 what is meant by the phase space action principle that derives the Hamiltonian's equations?
 
 The term “non-resonant divertor” was coined in 2015 by Boozer [3]. The definition emphasised (1) the relationship between sharp curvature of flux surfaces and X-points in the magnetic field and (2) the importance of making perturbations to the magnetic field which are not resonant with the rotational transform of the field, and therefore do not produce an island divertor
+
+
+# aug 29
+
+Starlite: a stellerator designed to experiementally validate non-resonant divertors
+https://arxiv.org/pdf/2603.18265
+
+Divertor topology and vacuum vessel design for stellerators
+https://arxiv.org/pdf/2607.27127
