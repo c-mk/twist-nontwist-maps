@@ -41,15 +41,41 @@ In a toroidal magnetized plasma (tokamak, stellarator), magnetic field lines can
 
 Greene's Criterion (Greene, 1979) is a method from KAM (Kolmogorov-Arnold-Moser) theory used to determine whether an invariant torus (a smooth, continuous magnetic flux surface) survives or breaks apart into a fractal remnant called a cantorus.
 
+The term “non-resonant divertor” was coined in 2015 by Boozer. The definition emphasised (1) the relationship between sharp curvature of flux surfaces and X-points in the magnetic field and (2) the importance of making perturbations to the magnetic field which are not resonant with the rotational transform of the field, and therefore do not produce an island divertor
+
+
 **questions:**
 
 what is the jacobian and its relation with plasma physics?
 is the residue of Greene's Criterion a magnetized plasma left : it is not a physical goo, instead it is a measurement of stability of a specific periodic orbit (elliptic vs hyperbolic)
+
 what is meant by the phase space action principle that derives the Hamiltonian's equations?
 
-The term “non-resonant divertor” was coined in 2015 by Boozer [3]. The definition emphasised (1) the relationship between sharp curvature of flux surfaces and X-points in the magnetic field and (2) the importance of making perturbations to the magnetic field which are not resonant with the rotational transform of the field, and therefore do not produce an island divertor
+
+# Supplemental Chapter in Plasma Confinement on Nonlinearity Processes
 
 
+1. Magnetic field lines can be treated as a Hamiltonian system. When there are nested toroidal flux surfaces the field line trajectories are intrgrable, and the Hamiltonian corresponds to the toroidal flux. 
+
+Most pertubabtion of an integral system will destroy integrability. The primary effect is the occurence of magnetic islands at every rational surface. When island sizes in width become to large compared to their speratrions, chaos arises.
+
+2. When a Hamiltonian system is far from the integrable limit, statisical approaches can be used to treat chaotic trajectories. The simplest approach is analogous to quasilinear theory and leds to a diffusion coefficient depending only on the mean square level of the pertubing forces.
+
+KAM theorem states that if X is smooth enough and small enough most of the original magnetic surfaces surve the pertubation. these surfaces are far from any of the rational surfaces. Every rational magnetic surface is destroted and replaced by an island. 
+
+As pertubation approaches 0 most pertubations are perserved.
+
+# more questions
+
+What is island overlap? When the two islands are sperated by a distance much larger than the sum of their half widths?
+
+Why do nonlinear effects distort island shapes and give rise to islands with other helicities (than single) 
+
+Are we thinking of the plasma as fluid for MHD?
+
+What is island helicity?
+
+(When there are multiple helicities, integration breaks down, why?)
 # aug 29
 
 Starlite: a stellerator designed to experiementally validate non-resonant divertors
