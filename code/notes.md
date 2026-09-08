@@ -119,3 +119,6 @@ Each team will submit a 3-page written technical report,
 calibrated hardware or documented code, 
 and a presentation/poster suitable for an APS-DPP 
 or IEEE PPPS undergraduate session.
+
+# sept 8
+submitted interest
