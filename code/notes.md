@@ -69,7 +69,7 @@ As pertubation approaches 0 most pertubations are perserved.
 
 What is island overlap? When the two islands are sperated by a distance much larger than the sum of their half widths?
 
-Why do nonlinear effects distort island shapes and give rise to islands with other helicities (than single) 
+Why do nonlinear effects distort island shapes and give rise to islands with other helicities (than single) ?
 
 Are we thinking of the plasma as fluid for MHD?
 
@@ -83,3 +83,39 @@ https://arxiv.org/pdf/2603.18265
 
 Divertor topology and vacuum vessel design for stellerators
 https://arxiv.org/pdf/2607.27127
+
+
+# sept 7
+
+review papers
+
+X-points are hyperbolic fixed points of the field-
+line map; their stable and unstable invariant manifolds form the separatrix and the divertor legs that carry heat to the wall, and are
+computed with SIMSOPT and pyoculus. 
+
+Greene’s residue (spanning −0.19 to −0.35 across the three configurations) predicts how
+quickly field lines travel along those manifolds, and in the high-ι case the manifolds fail to close, producing a homoclinic tangle and
+edge chaos. 
+
+Heat deposition is modeled with EMC3-Lite anisotropic transport and a Bohm sheath boundary condition, with 30 kW of exhausted power matching the two 15 kW, 2.45 GHz magnetrons. 
+
+Student team tasks include reproducing the design A analysis from
+the published SIMSOPT scripts, extending sensitivity studies to as-built coil geometry recovered from Project 1, and 
+verifying strike
+patterns and connection lengths for the selected vessel.
+
+Skills to learn: Python scientific computing, dynamical systems and chaos, magnetic confinement theory, stellarator optimization, high-
+performance computing.
+
+**Timeline and Deliverables**
+
+Project III: verify X-point locations from field measurement, 
+divertor footprints measured and compared with
+EMC3-Lite predictions, 
+study effect of field error of the X-point locations. 
+
+
+Each team will submit a 3-page written technical report,
+calibrated hardware or documented code, 
+and a presentation/poster suitable for an APS-DPP 
+or IEEE PPPS undergraduate session.
