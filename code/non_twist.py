@@ -81,7 +81,7 @@ def plot_phase_portrait(map_func, map_args, y0_values, filename, title,
 if __name__ == '__main__':
     
     # --- Generate Nontwist Map ---
-    a_nt, b_nt = 0.615, 0.4
+    a_nt, b_nt = 0.3, 0.715
     y0_nt = np.concatenate([
         np.linspace(-1.8, -0.2, 25),
         np.linspace(-0.2, 0.2, 15),
@@ -99,7 +99,7 @@ if __name__ == '__main__':
     )
     
     # --- Generate Standard Twist Map ---
-    K_t = 0.49
+    K_t = 0.97
     
     # Using a 2D grid of initial conditions ensures the twist map 
     # phase space is fully populated and doesn't look blank.
