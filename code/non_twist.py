@@ -99,7 +99,7 @@ if __name__ == '__main__':
     )
     
     # --- Generate Standard Twist Map ---
-    K_t = 0.97 
+    K_t = 0.49
     
     # Using a 2D grid of initial conditions ensures the twist map 
     # phase space is fully populated and doesn't look blank.

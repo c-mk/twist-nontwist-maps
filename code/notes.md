@@ -122,3 +122,21 @@ or IEEE PPPS undergraduate session.
 
 # sept 8
 submitted interest
+
+# oct 7
+
+integer - 1, 2, 3
+
+negative interger: -1, -2, -3
+
+real number: numbers that exist on the continous number line.
+
+
+
+irrational number:  a real number p and q (two ints) where q is not zero and cannot be written as a fraction
+
+irrational number: wild and chaotic, never stop and never repeat a pattern (3.141..... and sqrt 2)
+
+# oct 14
+
+report for magnetic field lines poincare sections due.
