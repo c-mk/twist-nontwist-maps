@@ -140,3 +140,8 @@ irrational number: wild and chaotic, never stop and never repeat a pattern (3.14
 # oct 14
 
 report for magnetic field lines poincare sections due.
+
+# oct 28 
+Meeting on zoom
+did not submit potraits with various k, a and b values.
+Peepare overleaf with various a, b and K values.
